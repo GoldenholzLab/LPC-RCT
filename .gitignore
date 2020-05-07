@@ -6,6 +6,18 @@ __pycache__/
 # C extensions
 *.so
 
+# pictures
+*.jpg
+*.png
+*.tiff
+*.tif
+
+# deep learning models
+*.h5
+
+# JSON files
+*.json
+
 # Distribution / packaging
 .Python
 build/
