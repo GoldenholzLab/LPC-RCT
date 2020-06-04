@@ -105,8 +105,7 @@ def plot_LPC_thresholds(NV_model):
                        delimiter=' ',
                        quotechar='|',
                        quoting=csv.QUOTE_MINIMAL)
-
-        #for threshold in thresholds_array:
+                       
         threshold_writer.writerow(thresholds_array)
 
 
