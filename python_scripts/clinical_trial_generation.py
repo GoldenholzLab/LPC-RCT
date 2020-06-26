@@ -3,7 +3,6 @@ from seizure_diary_generation import generate_baseline_seizure_diaries
 from seizure_diary_generation import generate_maintenance_seizure_diaries
 from seizure_diary_generation import apply_percent_effects_to_seizure_diaries
 from endpoint_functions import calculate_MPC_p_value
-from endpoint_functions import calculate_rotated_percent_changes
 from endpoint_functions import calculate_percent_changes
 import numpy as np
 
